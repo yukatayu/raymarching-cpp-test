@@ -1,0 +1,2 @@
+# raymarching-cpp-test
+RayMarchingを何故かCPUでぶん回してbmpに出力する謎プログラム
